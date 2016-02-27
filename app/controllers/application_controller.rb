@@ -8,6 +8,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render text: "Goodbye, world!"
+    render text: "Goodbye cruel world!"
   end
 end
